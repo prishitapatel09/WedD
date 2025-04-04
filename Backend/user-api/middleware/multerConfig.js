@@ -27,3 +27,5 @@ const upload = multer({
 });
 
 module.exports = upload;
+
+// Usage in routes
